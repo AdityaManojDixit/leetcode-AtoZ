@@ -2,7 +2,8 @@
 #include<string>
 #include<algorithm>
 #include <cstring>
-using namespace std;
+using namespace std; 
+
 
 static int t[1001][1001];
     
