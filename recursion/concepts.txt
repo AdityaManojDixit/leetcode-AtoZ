@@ -1,0 +1,27 @@
+Summary:
+
+- Lesson-1 & Lesson-2 : Introduction To Recursion
+    -Recursion Tree
+    -Stack Space
+    -Questions:
+        -Print name N times
+        -Print 1 to N
+        -Print N to 1
+        -Print from N to 1 (Backtracking)
+        -Print from 1 to N (Backtracking)
+
+
+- Lesson-3 & Lesson-4 : Parameterized and Functional Recursion
+    - Parameterization - Parameter Doing Work. Carrying sum in parameter and printing it when base case is met.
+    - Functional - Function Calls doing work. Function return some value which can be stored for future use. Useful in DP.
+    -Questions :
+        -Sum of first N numbers
+        -Factorial
+        -Reverse an array
+        -Check Palindrome
+
+- Lesson-5 : Multiple Recursion Calls
+    -Questions :
+        -Fibonacci
+        
+    

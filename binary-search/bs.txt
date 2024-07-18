@@ -1,0 +1,5 @@
+- Summary:
+- Total 18 Conceptual Questions to identify pattern.
+- Lookout for word 'Sorted'. If present, then you may think to apply binary search.
+- 'SORTED' -> Binary search
+- Important Concept : Binary Search On Answer
